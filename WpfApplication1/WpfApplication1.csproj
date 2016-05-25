@@ -125,7 +125,7 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WindowsFormsApplication2\WindowsFormsApplication2.csproj">
+    <ProjectReference Include="..\WindowsFormsApplication2\UnityControl.csproj">
       <Project>{B893B340-F5C8-46B7-B5E5-954C67638027}</Project>
       <Name>WindowsFormsApplication2</Name>
     </ProjectReference>
